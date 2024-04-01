@@ -1,0 +1,106 @@
+body {
+    perspective: 600px;
+    font-size: x-large;
+    font-style:normal;
+    color: rgb(31, 31, 31);
+    background-color: white;
+    text-align: center;
+
+    margin: 30px 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:normal;
+    border-radius: 10px;
+}
+.pro {
+    position: relative;
+    top: 25px;
+    text-align: center;
+    font-size: 30px;
+    padding:10px ;
+    margin:50px;
+    margin-bottom:20px;
+    background-color: rgb(255, 75, 75);
+    border-radius: 15px;
+    border: 2px solid black;
+}
+h2 {
+    background-color: rgb(255, 75, 75);
+    padding:5px 10px ;
+    margin:15px 350px 10px 350px;
+    border: 3px rgb(0, 0, 0);
+    border-style:solid;
+    border-radius:15px;
+
+}
+p {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom:20px;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+
+}
+.pros {
+    margin-bottom:10px;
+
+}
+a:hover {
+    text-decoration: underline;
+    transform-style: preserve-3d;
+
+
+}
+
+li{
+    list-style-type: none;
+    border:black solid 3px;
+	border-radius:10px;
+    padding:20px ;
+    margin:30px 300px 40px 300px ;
+    background-color:rgb(255, 75, 75);
+}
+.copy {
+    text-align: center;
+    height: 100px;
+    background-color: rgb(255, 75, 75);
+    margin:0px 300px 0px 300px;
+    word-spacing: 10px;
+    padding: 20px;
+    border:solid 2px black;
+    margin-top:90px ;
+    border-radius: 15px;
+}
+.Dis{
+    size:10px;
+    position: absolute;
+    left: 320px;
+}
+a span {
+    position: absolute;
+    left: 110px;
+    bottom: 27px;
+}
+a span:hover {
+    text-decoration: underline;
+}
+.HG {
+    position: relative;
+    top: -68px;
+}
+.facce {
+    position: relative;
+    left: 132px;
+    top: -135px;
+}
+.Pngo {
+    position: relative;
+    top: -116px;
+    left: 117px;
+    border-radius: 30px;
+}
+
+
+
